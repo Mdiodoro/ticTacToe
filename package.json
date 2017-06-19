@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdiodoro/ticTacToe.git"
+  },
+  "keywords": [
+    "TicTacToe"
+  ],
+  "author": "Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdiodoro/ticTacToe/issues"
+  },
+  "homepage": "https://github.com/Mdiodoro/ticTacToe#readme"
+}
